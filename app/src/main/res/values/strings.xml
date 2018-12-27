@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">The Clicker</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Welcome Message-->
+    <string name="lblMessage">Welcome to the Clicker!</string>
+    <string name="btnEnter">ENTER</string>
+    <string name="Welcome">The Clicker</string>
+    <string name="goImgWelcome">Picture_1</string>
+
+    <!--Menu-->
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="MenuGreeting">Pick a list to begin!</string>
+    <string name="goMainMenu">Main Menu</string>
+    <string name="goExit">Exit</string>
+
+    <!--List 1-->
+    <string name="title_activity_list1">List 1</string>
+    <string name="goImgList_1">Picture</string>
+    <string name="addToList">Enter Items</string>
+    <string name="btn1">Click</string>
+    <string name="editText1">Enter Item Hit Click!</string>
+    <string name="enListName">List Name?</string>
+
+    <!--List 2-->
+    <string name="title_activity_list2">List 2</string>
+    <string name="goImgList_2">Picture</string>
+    <string name="enListName2">List Name?</string>
+    <string name="editText2">Please Enter Item!</string>
+    <string name="btn2">Click</string>
+
+
+    <!--Buttons-->
+    <string name="btnList1">List 1</string>
+    <string name="btnList2">List 2</string>
+
+
+</resources>

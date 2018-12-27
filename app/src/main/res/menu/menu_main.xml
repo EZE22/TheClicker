@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.reddragon.adam.theclicker.WelcomeActivity">
+    <item
+        android:id="@+id/mnuMain"
+        android:title="@string/goMainMenu"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mnuExit"
+        android:title="@string/goExit"
+        app:showAsAction="never"/>
+</menu>
